@@ -1,0 +1,12 @@
+2023/05/25-19:45:06.711 4cac Creating DB C:\Users\maria\AppData\Local\Temp\flutter_tools.23f1b844\flutter_tools_chrome_device.8995db77\Default\IndexedDB\http_localhost_56046.indexeddb.leveldb since it was missing.
+2023/05/25-19:45:06.716 4cac Reusing MANIFEST C:\Users\maria\AppData\Local\Temp\flutter_tools.23f1b844\flutter_tools_chrome_device.8995db77\Default\IndexedDB\http_localhost_56046.indexeddb.leveldb/MANIFEST-000001
+2023/05/25-19:45:06.721 4cac Level-0 table #5: started
+2023/05/25-19:45:06.723 4cac Level-0 table #5: 690 bytes OK
+2023/05/25-19:45:06.724 4cac Delete type=0 #3
+2023/05/25-19:45:06.725 3e5c Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/05/25-19:45:19.301 4cac Level-0 table #7: started
+2023/05/25-19:45:19.302 4cac Level-0 table #7: 4289 bytes OK
+2023/05/25-19:45:19.303 4cac Delete type=0 #4
+2023/05/25-19:45:19.303 4cac Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/05/25-20:04:19.000 3e5c Manual compaction at level-0 from '\x00\x06\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x07\x00\x00\x00' @ 0 : 0; will stop at (end)
+2023/05/25-20:04:40.148 4cac Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "164319439257",
+    "project_id": "marketpet-flutter",
+    "storage_bucket": "marketpet-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164319439257:android:24ef372bc0330415b50b08",
+        "android_client_info": {
+          "package_name": "com.tiagogp.marketpet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164319439257-7n7vdkqvp67gavf1v9marbr6g2eoeonh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPKlVEz7BemxX0ceNyWgxzsZ1U9tw58mQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164319439257-7n7vdkqvp67gavf1v9marbr6g2eoeonh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
